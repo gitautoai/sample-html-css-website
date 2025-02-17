@@ -1,4 +1,11 @@
 // Misc.
+$primary-color: #ff4136;
+$secondary-color: #ff851b;
+$accent-color: #ffdc00;
+$invert: (
+  border: $primary-color,
+  accent: $accent-color
+);
 $misc: (
   z-index-base: 10000,
 );
